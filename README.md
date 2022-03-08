@@ -1,4 +1,4 @@
-This is a disaster-relief robot using the Coppelia Robotics virtual robot software.  The full scene is not included, just the BubbleRob robot tools and commands.
+This is a disaster-relief robot using the Coppelia Robotics virtual robot software.  The full scene is not included, just the BubbleRob robot tools and commands (LUA).
 
 This robot searches a building that is on fire for anyone still inside.  It will navigate around furniture and debris until it locates a "person" within.  While this robot does not rescue them itself, it does provide an alternate view of the situation without putting the lives of others in danger.  
 
